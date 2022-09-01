@@ -1,4 +1,4 @@
-# Graded_assignment_4- Check point 1
+# WHO Data Project Check point 1 (Project Overview)
 1. Project Name:
 
 The WHO Covid-19 Data Project. 
